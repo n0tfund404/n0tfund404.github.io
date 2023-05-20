@@ -1,8 +1,7 @@
 ---
 title: "Layout: Post with Table of Contents"
 header:
-  image: assets/images/unsplash-image-9.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: https://www.hackthebox.com/storage/avatars/3a186834eba2b780dacdaadcc157d309.png
 tags:
   - table of contents
   - shadow·backup
