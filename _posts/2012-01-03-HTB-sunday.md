@@ -1,5 +1,5 @@
 ---
-title: "Layout: Post with Table of Contents"
+title: "HTB-sunday"
 header:
   image: https://www.hackthebox.com/storage/avatars/3a186834eba2b780dacdaadcc157d309.png
 tags:
@@ -21,7 +21,7 @@ toc_icon: "heart"
 
 
 
-## Information
+# Information
 ```bash
 
 10.10.10.76
